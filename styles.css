@@ -29,3 +29,6 @@ li{
     margin-bottom: 10px;
     text-align: left;
 }
+a:hover{
+    color:#1b1b1b;
+}

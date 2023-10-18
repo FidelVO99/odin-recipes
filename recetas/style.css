@@ -43,7 +43,7 @@ a{
     text-decoration: none;
     color: white;
     font-weight: bold;
-    background-color: #222544;
+    background-color: #1b1b1b;
     padding: 10px;
     border-radius: 3px;
     font-size: 20px;
@@ -51,4 +51,8 @@ a{
     text-align: center;
     width: 60%;
     margin: 0 auto;
+}
+a:hover{
+    background-color: #222544;
+    color: #e2dcdc;
 }
